@@ -4,10 +4,10 @@ Challenge 11 due 2.2.23
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-A Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
+An application to write and save notes using an Express.js back end that will save and retrieve note data from a JSON file.
 
 ## Screenshot
-![Screenshot of Process Flow](./assets/images/screenshot.png)
+![Screenshot of Process Flow](./)
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -17,16 +17,16 @@ A Node.js command-line application that takes in information about employees on 
 5. [License](#license)
 
 ## Installation
-The user would clone the repository from GitHub and download Node. The application requires the file system and inquirer modules and uses Jest for any tests to the application.
+No installation required. 
 
 ## Usage
-Using your command line, answer questions about your team and an "index.html" file will be generated and placed in the "dist" directory.
+Application can be used at the deployed live URL.
 
 ## Walkthrough
 [Video Walkthrough Link](https://drive.google.com/file/d/14a8OyqrL1yTz0lcOzibFEf7nHMMMiOzc/view?usp=share_link)
 
 ## Tests
-Run npm test to run Jest for tests on the constructors.
+N/A
 
 ## License
 
