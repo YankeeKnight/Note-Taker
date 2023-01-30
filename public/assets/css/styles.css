@@ -1,3 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
+
+:root {
+  --coolgrey: #5e6167;
+  --eggplant: #312951;
+  --infrared: #ff2247;
+  --newgreen: #00afc4;
+  --pinkflash: #ef4657;
+  --royalblue: #1e3f9f;
+  --tiffanyblue: #00ffec;
+  --purple: #433053;
+  --gold: #f4b042;
+  --varsityred: #B01317;
+  --volt: #ceff00;
+  --pastelred: #fadae2;
+}
+
 html,
 body {
   height: 100%;
@@ -9,6 +26,24 @@ body {
   display: none;
 }
 
+.bg-1 {
+  background-color: var(--eggplant);
+  font-family: 'Play', sans-serif;
+}
+
+.bg-2 {
+  background-color: var(--pinkflash);
+  color: white;
+  border-radius: 10px;
+  font-family: 'Play', sans-serif;
+  font-weight: 700;
+}
+
+.btn {
+  background-color: var(--volt);
+  color: black;
+}
+
 .icons i {
   margin-left: 15px;
   margin-right: 15px;
@@ -16,12 +51,18 @@ body {
   cursor: pointer;
 }
 
+.container-fluid {
+  background-color: var(--pastelred);
+}
+
 .note-textarea,
 .note-title {
+  font-family: 'Play', sans-serif;
   color: #000000;
   width: 100%;
   outline: none;
   border: none;
+  background-color: var(--pastelred);
 }
 
 .note-textarea {
@@ -66,6 +107,7 @@ body {
 }
 
 .list-container i {
+  font-family: 'Play', sans-serif;
   font-size: 1.1rem;
   cursor: pointer;
 }
