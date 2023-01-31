@@ -7,7 +7,7 @@ Challenge 11 due 2.2.23
 An application to write and save notes using an Express.js back end that will save and retrieve note data from a JSON file.
 
 ## Screenshot
-![Screenshot of Process Flow](./)
+![Screenshot](./public/assets/images/screenshot.png)
 
 ## Table of Contents
 1. [Installation](#installation)
