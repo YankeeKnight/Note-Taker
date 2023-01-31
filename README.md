@@ -12,18 +12,14 @@ An application to write and save notes using an Express.js back end that will sa
 ## Table of Contents
 1. [Installation](#installation)
 2. [Usage](#usage)
-3. [Walkthrough](#walkthrough)
-4. [Tests](#tests)
-5. [License](#license)
+3. [Tests](#tests)
+4. [License](#license)
 
 ## Installation
-No installation required. 
+[Link to Deployed App on Heroku](https://fierce-scrubland-57410.herokuapp.com/) 
 
 ## Usage
 Application can be used at the deployed live URL.
-
-## Walkthrough
-[Video Walkthrough Link](https://drive.google.com/file/d/14a8OyqrL1yTz0lcOzibFEf7nHMMMiOzc/view?usp=share_link)
 
 ## Tests
 N/A
